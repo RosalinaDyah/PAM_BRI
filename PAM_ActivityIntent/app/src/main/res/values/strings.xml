@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PAM_Activity Intent</string>
+    <string name="btn_login_title">Login</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_signup">Sign Up</string>
+    <string name="label_welcome">Welcome</string>
+    <string name="label_balance">Balance</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_transfer">Transfer</string>
+    <string name="label_briva">BRIVA</string>
+    <string name="label_electricity">Electricity</string>
+    <string name="label_other">Other</string>
+    <string name="label_financial">Financial Records</string>
+    <string name="label_view_details">View Details</string>
+    <string name="label_income">Income</string>
+    <string name="label_expenses">Expenses</string>
+    <string name="label_differnce">Difference</string>
+    <string name="label_last_transaction">Last Transaction</string>
+    <string name="label_view_mutation">View Mutation</string>
+    <string name="label_today">Today</string>
+    <string name="label_this_month">This Month</string>
+    <string name="label_home">Home</string>
+    <string name="label_mutation">Mutation</string>
+    <string name="label_activity">Activity</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_search_mutation">Search Mutation</string>
+    <string name="label_choose_account">Choose Account</string>
+    <string name="label_choose_date">Choose Date</string>
+    <string name="label_search">Search</string>
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="label_logout">Log Out</string>
+    <string name="label_change_profile">Change Profile Picture</string>
+
+</resources>
